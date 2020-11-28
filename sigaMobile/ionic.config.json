@@ -1,5 +1,7 @@
 {
   "name": "sigaMobile",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
